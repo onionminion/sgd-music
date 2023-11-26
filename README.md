@@ -1,2 +1,2 @@
-# sgd-music-cifar
+# sgd-music
  
